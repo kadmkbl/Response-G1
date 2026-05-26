@@ -5,7 +5,7 @@
 
 📄 **ACL 2026** · [Paper (PDF)](https://arxiv.org/abs/2605.07575)
 
-[📖 Overview](#-overview) · [🔧 Installation](#-installation) · [💾 Data](#-data-and-model) · [🚀 Usage](#-usage) · [📚 Citation](#-citation) · [🙏 Acknowledgements](#-acknowledgements) · [✉️ Contact](#-contact)
+[📖 Overview](#-overview) · [📌 Updates](#-updates) · [🔧 Installation](#-installation) · [💾 Data and Model](#-data-and-model) · [🚀 Usage](#-usage) · [📚 Citation](#-citation) · [🙏 Acknowledgements](#-acknowledgements) · [📬 Contact](#-contact)
 
 ---
 
@@ -29,8 +29,8 @@ Grounding both **evidence** and **conditions** in graphs yields **more interpret
 
 ## 📌 Updates
 
-- **April 6, 2026** — Response-G1 accepted to **ACL 2026**.  
-- **May 16, 2026** — Official evaluation code released in this repository.
+- ✅ **April 6, 2026** — Response-G1 accepted to **ACL 2026**.  
+- ✅ **May 16, 2026** — Official evaluation code released in this repository.
 
 ---
 
@@ -150,7 +150,7 @@ We sincerely thank the authors for the open-source work.
 
 ---
 
-## ✉️ Contact
+## 📬 Contact
 
 If you encounter any problems or have questions, feel free to reach out:
 
