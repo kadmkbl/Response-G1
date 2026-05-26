@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local runs and logs
+runs/
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
