@@ -30,7 +30,7 @@ Grounding both **evidence** and **conditions** in graphs yields **more interpret
 ## 📌 Updates
 
 - ✅ **April 6, 2026** — Response-G1 accepted to **ACL 2026**.  
-- ✅ **May 16, 2026** — Official evaluation code released in this repository.
+- ✅ **May 26, 2026** — Official evaluation code released in this repository.
 
 ---
 
